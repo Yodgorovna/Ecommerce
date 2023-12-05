@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gNzn/PMdzIHdEtHFvh3jkIed9DqTGZx4M793RWcGsBJiclhlyBPMj096MqvSXs/5WW5xPbiv2G66K+11u0cYcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\bookhome-webapi\\src\\BookHome.Domain\\BookHome.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512"
+  ],
+  "logs": []
+}

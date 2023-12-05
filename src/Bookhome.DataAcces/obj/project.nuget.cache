@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BMSMkyjiJq0JCoxmvT/GbW2ZxRls7WmndQ3zWsnknxhNNFd2XKQ++MJPP+7Xjac2kg8bsG0UNFLxvAWuEbIPOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\bookhome-webapi\\src\\Bookhome.DataAcces\\Bookhome.DataAcces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
